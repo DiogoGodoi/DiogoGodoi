@@ -2,7 +2,7 @@
 
 #### Possuo conhecimentos em banco de dados SqlServer e MongoDB, em linguagens backEnd como NodeJS, JavaScript, Typescript, C#, ja tive contato na parte mobile também utilizando Kottlin, um pouco de JAVA e API Rest, também possuo conhecimentos em Front-End como no freamwork Angular 9, html, css, bootstrapp, e também na manipulação de JQuery.
 
-#### Atualmente sou assistente de TI em uma empresa de médio porte que atua no ramo da construção civil na fabricação de ferramentas, sou responsável por toda infraestrutura de TI da empresa, e estou desenvolvendo uma intranet informativa para empresa, e também um sisteminha desktop de controle de entrada e saída de estoques.
+#### Atualmente sou assistente de TI em uma empresa de médio porte que atua no ramo da construção civil na fabricação de ferramentas, sou responsável por toda infraestrutura de TI da empresa, e estou desenvolvendo sisteminha desktop de controle de entrada e saída de estoques em C# com Sql Server como banco de dados.
 
 Logo abaixo encontra-se o link do meu linkedln
 
