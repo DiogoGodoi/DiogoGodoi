@@ -1,4 +1,4 @@
-## Olá! Meu nome é Diogo Godoi 👨‍💻
+## Olá! Sou o Diogo 👨‍💻
 
 Sou um Desenvolvedor Fullstack .NET apaixonado por tecnologia, boas práticas de desenvolvimento e soluções que geram impacto real. Com formação técnica pela Etec João Belarmino e graduação em Análise e Desenvolvimento de Sistemas pela UNIP, tenho sólida experiência no desenvolvimento de sistemas com foco em performance, arquitetura limpa e escalabilidade.
 
