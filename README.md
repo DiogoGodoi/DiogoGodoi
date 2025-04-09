@@ -5,9 +5,7 @@ Sou um Desenvolvedor Fullstack .NET apaixonado por tecnologia, boas práticas de
 Atualmente atuo como Analista de TI na Cervejaria Ashby, onde desenvolvo soluções com Blazor, ASP.NET Core Web API e Entity Framework Core, integrando dados com SQL Server para otimização de processos internos. Tenho vivência também com infraestrutura de TI, APIs REST, microsserviços, segurança com JWT e ASP.NET Identity, além de práticas como SOLID, Clean Architecture, testes automatizados e versionamento com Git.
 
 ## 💼 Cargos de Interesse
-Analista de Sistemas .NET |
-Desenvolvedor .NET |
-Desenvolvedor Fullstack
+Analista de Sistemas .NET, Desenvolvedor .NET, Desenvolvedor Fullstack
 
 ## 🚀 Habilidades Técnicas
 Backend:
