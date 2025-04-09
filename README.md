@@ -6,9 +6,7 @@ Atualmente atuo como Analista de TI na Cervejaria Ashby, onde desenvolvo soluç�
 
 ## 💼 Cargos de Interesse
 Analista de Sistemas .NET
-
 Desenvolvedor .NET
-
 Desenvolvedor Fullstack
 
 ## 🚀 Habilidades Técnicas
