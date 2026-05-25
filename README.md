@@ -1,49 +1,103 @@
-## Olá! Sou o Diogo 👨‍💻
+Olá, eu sou o Diogo 👋
 
-Sou um Desenvolvedor Fullstack .NET apaixonado por tecnologia, boas práticas de desenvolvimento e soluções que geram impacto real. Com formação técnica pela Etec João Belarmino e graduação em Análise e Desenvolvimento de Sistemas pela UNIP, tenho sólida experiência no desenvolvimento de sistemas com foco em performance, arquitetura limpa e escalabilidade.
+💻 Full Stack Developer focado no ecossistema .NET, desenvolvimento de APIs e sistemas corporativos.
 
-Atualmente atuo como Analista de TI na Cervejaria Ashby, onde desenvolvo soluções com Blazor, ASP.NET Core Web API e Entity Framework Core, integrando dados com SQL Server para otimização de processos internos. Tenho vivência também com infraestrutura de TI, APIs REST, microsserviços, segurança com JWT e ASP.NET Identity, além de práticas como SOLID, Clean Architecture, testes automatizados e versionamento com Git.
+Atualmente trabalho com desenvolvimento de aplicações internas, integrações ERP, automação de processos e soluções voltadas para ambientes corporativos e industriais.
 
-## 💼 Cargos de Interesse
-Analista de Sistemas .NET, Desenvolvedor .NET, Desenvolvedor Fullstack
+Tenho experiência com:
 
-## 🚀 Habilidades Técnicas
-Backend:
-C#, .NET Core, ASP.NET Web API, Entity Framework Core, ADO.NET, Dapper
+- Desenvolvimento Backend com C# e ASP.NET Core
+- Frontend com Angular e Blazor
+- APIs REST e microsserviços
+- SQL Server e modelagem de dados
+- Integrações com ERP TOTVS
+- Arquitetura limpa, SOLID e boas práticas
+- Docker, mensageria e autenticação JWT
 
-## Frontend:
-Blazor, Angular 9, HTML, CSS, JavaScript, TypeScript, Bootstrap, MudBlazor
+---
 
-## Banco de Dados:
-SQL Server, MySQL, SQLite
+🚀 Tech Stack
 
-## DevOps & Arquitetura:
-Docker, RabbitMQ, MassTransit, Redis, Ocelot API Gateway, Microsserviços, Clean Architecture, SOLID
+Backend
 
-## Segurança:
-ASP.NET Identity, JWT Web Token
+- C#
+- .NET / ASP.NET Core
+- Entity Framework Core
+- Dapper
+- ADO.NET
+- REST APIs
 
-## Ferramentas:
-Git, GitHub, Visual Studio, VS Code
+Frontend
 
-## 📚 Formação Acadêmica
-Análise e Desenvolvimento de Sistemas – Universidade Paulista (UNIP) – Concluído em 2024
+- Angular
+- Blazor
+- TypeScript
+- JavaScript
+- HTML / CSS
+- Bootstrap
+- MudBlazor
+- PO-UI
 
-Técnico em Desenvolvimento de Sistemas – Etec João Belarmino – Concluído em 2020
+Banco de Dados
 
-## 🏆 Cursos Recentes
-Docker essencial para a plataforma .NET (Bônus Kubernetes) – Udemy – 2025
+- SQL Server
+- MySQL
+- SQLite
 
-TDD em C# com xUnit, NUnit e Moq – Udemy – 2024
+Arquitetura & DevOps
 
-Blazor Essencial .NET 8.0 – Udemy – 2024
+- Docker
+- RabbitMQ
+- MassTransit
+- Redis
+- Ocelot API Gateway
+- Microsserviços
+- Clean Architecture
+- SOLID
 
-ASP.NET Core MVC – Udemy – 2024
+Segurança
 
-Desenvolvimento Web com JavaScript, TypeScript e Angular – Udemy – 2024
+- JWT Authentication
+- ASP.NET Identity
 
-## 🔗 Vamos nos conectar?
+---
 
-📧 E-mail: diogogoddoi@gmail.com
+📚 Formação
 
-💼 LinkedIn: https://www.linkedin.com/in/diogo-godoi-9b1b001b0/
+🎓 Pós-graduação em Engenharia de Dados — PUC Minas
+🎓 Análise e Desenvolvimento de Sistemas — UNIP
+🎓 Técnico em Desenvolvimento de Sistemas — Etec João Belarmino
+
+---
+
+🧠 Atualmente estudando
+
+- Engenharia de Dados
+- Apache Kafka
+- Spark
+- Streaming de Dados
+- Microsserviços escaláveis
+- Arquitetura distribuída
+
+---
+
+💼 Interesses Profissionais
+
+- Backend .NET
+- Full Stack Development
+- Arquitetura de Software
+- Engenharia de Dados
+- Sistemas Corporativos
+- Integrações ERP
+
+---
+
+📫 Contato
+
+📧 Email: diogogoddoi@gmail.com
+
+💼 LinkedIn:
+linkedin.com/in/diogo-godoi-9b1b001b0/
+
+🐙 GitHub:
+github.com/DiogoGodoi
